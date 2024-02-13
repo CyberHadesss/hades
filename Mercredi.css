@@ -1,0 +1,41 @@
+body{
+    /* background-image: url(https://f.hellowork.com/edito/sites/3/2022/09/lundi_habitudes-722x361.jpg?v=1664184268);*/
+    background-color: rgb(228, 236, 10);
+ }
+ h2{
+    color: rgb(255, 255, 4);
+    font-size: 2rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3{
+    color: rgb(242, 255, 0);
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .intro{
+   background: rgb(251,171,63);
+background: radial-gradient(circle, rgba(251,171,63,1) 11%, rgba(216,247,0,1) 100%);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      }
+      .Lundi{
+       background: rgb(251,171,63);
+background: radial-gradient(circle, rgba(251,171,63,1) 11%, rgba(216,247,0,1) 100%);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+         
+      }
+      .Mardi{
+       background: rgb(251,171,63);
+background: radial-gradient(circle, rgba(251,171,63,1) 11%, rgba(216,247,0,1) 100%);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      }
+      .Mercredi{
+       background: rgb(251,171,63);
+background: radial-gradient(circle, rgba(251,171,63,1) 11%, rgba(216,247,0,1) 100%);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      }
+      h2{
+                
+        font-size: 2rem;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    h3{font-family: Verdana, Geneva, Tahoma, sans-serif;}

@@ -1,0 +1,28 @@
+body{
+    /* background-image: url(https://f.hellowork.com/edito/sites/3/2022/09/lundi_habitudes-722x361.jpg?v=1664184268);*/
+    background-color: rgb(253, 7, 167);
+ }
+
+ .intro{
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ .Lundi{
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+ }
+ .Mardi{
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ .Mercredi{
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    h2{
+        color: rgb(141, 18, 203);
+        font-size: 2rem;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    h3{font-family: Verdana, Geneva, Tahoma, sans-serif;}
